@@ -1,0 +1,29 @@
+{
+	"name": "backbone.marionette.wrapper",
+	"version": "0.0.1",
+	"description": "wrapper of backbone marionette, delegate the js file in lib folder, since it includes babysitter and wreqr",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bradwoo8621/backbone.marionette.wrapper.git"
+	},
+	"keywords": [
+		"backbone",
+		"marionette",
+		"wrapper",
+		"babysitter",
+		"wreqr"
+	],
+	"author": "bradwoo8621",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bradwoo8621/backbone.marionette.wrapper/issues"
+	},
+	"homepage": "https://github.com/bradwoo8621/backbone.marionette.wrapper#readme",
+	"dependencies": {
+		"backbone.marionette": "^2.4.2"
+	}
+}
